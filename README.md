@@ -1,0 +1,3 @@
+This repository houses three projects that I've undertaken as part of my journey to learn and gain practical experience in the field of data analysis, data processing, and machine learning. As a beginner in this field, these projects represent my experimentation with different techniques and tools.
+
+It's important to note that these projects are not professional in nature. Instead, they reflect my personal development and exploration in the realm of data science. Through these projects, I aim to apply theoretical knowledge to real-world datasets, refine my skills, and deepen my understanding of various concepts and methodologies in data science.
